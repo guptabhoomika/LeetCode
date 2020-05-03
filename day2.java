@@ -1,4 +1,4 @@
-class Jewel
+class day2
 {
     public int numJewelsInStones(String J, String S) {
         int co =0;
